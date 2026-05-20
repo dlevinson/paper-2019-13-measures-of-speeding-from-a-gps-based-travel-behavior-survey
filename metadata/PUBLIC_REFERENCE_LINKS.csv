@@ -1,0 +1,5 @@
+url,role,decision,note
+https://doi.org/10.1080/15389588.2018.1543873,published_article,cite,Article DOI and bibliographic source.
+https://explore.re-explorer.org/transportation/secure-transportation-data/tsdc-minnesota-travel-behavior-inventory.html,TBI_input_data_source,cite_for_external_inputs,Source pointer for Minnesota TBI inputs cited by the paper.
+https://www.nrel.gov/transportation/secure-transportation-data,TSDC_source_context,cite_for_external_inputs,NREL secure transportation data center source context.
+https://www.metrogis.org/,street_map_source_context,cite_for_external_inputs,MetroGIS street-map source cited by the paper.
