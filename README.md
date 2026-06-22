@@ -1,5 +1,9 @@
 # Measures Of Speeding From A GPS-Based Travel Behavior Survey
 
+## Contribution
+
+This paper demonstrates how GPS travel-survey observations can measure where, when, and by whom speeding occurs on roads lacking conventional monitoring. Its map-matched Twin Cities analysis links speeding to road design, link length, intersection frequency, time of day, and driver characteristics, providing a scalable empirical basis for road-safety analysis.
+
 Row ID: `paper-2019-13`
 
 This is a **code-only legacy package** for public upload review. It includes the final paper reference and the local `Toshi_MASTERS` Python/QGIS scripts that match the paper's trip-processing, map-matching, speeding-summary, and fixed-effects workflow.
