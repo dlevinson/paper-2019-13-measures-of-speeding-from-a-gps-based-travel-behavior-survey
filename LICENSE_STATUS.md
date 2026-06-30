@@ -1,13 +1,13 @@
 # License Status: Measures Of Speeding From A GPS-Based Travel Behavior Survey
 
-Generated: 2026-05-20 15:23:47 AEST
+Generated: 2026-07-01 AEST
 
-Recorded license/access note from the verified audit row: Code provenance from local coauthor/student project; no source data included. External inputs are obtained separately under TSDC/NREL and MetroGIS terms.
+Recorded license/access note from the verified audit row: Mixed repository license now covers author-created code/scripts under MIT and repository-created documentation and derived data under CC BY 4.0.
 
-Before public GitHub upload, add an explicit license for author-created code/data or mark the package as citation/provenance-only. Do not license third-party raw data or publisher PDFs.
+Before public GitHub upload, keep the boundary explicit. Do not license third-party raw data, paper PDFs, or external input data/map sources whose terms are not clear.
 
 ## Practical Rule
 
-- Author-created code can receive an explicit software license only after finality/provenance is confirmed.
-- Author-created data/derived tables can receive an explicit data/documentation license only after source rights are clear.
-- Third-party raw data and publisher PDFs are not relicensed here.
+- Author-created code can receive an explicit software license when authorship and release scope are clear.
+- Author-created data/derived tables can receive an explicit data/documentation license when source rights are clear.
+- Third-party raw data, paper PDFs, and external input data/map sources are not relicensed here.

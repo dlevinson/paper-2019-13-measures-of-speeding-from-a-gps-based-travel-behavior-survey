@@ -11,6 +11,7 @@ Generated: 2026-05-20 15:23:47 AEST
 - Rights status: `likely_clear_with_provenance`
 - Controlled access status: `none`
 - Human subjects status: `no_human_subject_data_packaged`
+- Repository license: MIT for author-created code/scripts; CC BY 4.0 for repository-created documentation and derived data; paper PDF and external input data/map sources retained under original terms
 - Bibliographic citation: Yokoo, Levinson. (2019). Measures Of Speeding From A GPS-Based Travel Behavior Survey. Traffic Injury Prevention 20(2):158–163 (2019). 10.1080/15389588.2018.1543873
 
 ## Package Checks

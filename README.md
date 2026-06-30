@@ -1,5 +1,12 @@
 # Measures Of Speeding From A GPS-Based Travel Behavior Survey
 
+## License
+
+Author-created code and scripts are licensed under MIT. Repository-created
+documentation and derived data are licensed under CC BY 4.0. The paper PDF
+under `paper/` and any third-party input data or map sources remain under
+their original terms and are not included here.
+
 ## Contribution
 
 This paper demonstrates how GPS travel-survey observations can measure where, when, and by whom speeding occurs on roads lacking conventional monitoring. Its map-matched Twin Cities analysis links speeding to road design, link length, intersection frequency, time of day, and driver characteristics, providing a scalable empirical basis for road-safety analysis.
